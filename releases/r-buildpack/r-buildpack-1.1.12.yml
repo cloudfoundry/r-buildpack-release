@@ -1,0 +1,21 @@
+name: r-buildpack
+version: 1.1.12
+commit_hash: "7272505"
+uncommitted_changes: false
+jobs:
+- name: r-buildpack
+  version: 92a700e00c502c54ac09a4ebcc85b8861b57269a4bca2e882d56f7e5a6a9cea5
+  fingerprint: 92a700e00c502c54ac09a4ebcc85b8861b57269a4bca2e882d56f7e5a6a9cea5
+  sha1: sha256:21502d9c031acb0d5043fbd447cf0703b09d9b8b2b1b9c0baad297528dcd0c41
+  packages:
+  - r-buildpack-cflinuxfs3
+packages:
+- name: r-buildpack-cflinuxfs3
+  version: 401b0364c0c771b5834d1c549f2e388dd4f9e398e21d9f902cfd244a53a18418
+  fingerprint: 401b0364c0c771b5834d1c549f2e388dd4f9e398e21d9f902cfd244a53a18418
+  sha1: sha256:2e45a2e9fcfe4423ade393f95176b0a2cab46308494621cfc088976ad34d4048
+  dependencies: []
+license:
+  version: 8a6a9788a82bae7001fb1321abfd5a77b1c0a838a64f756ca517e8596adbe5ea
+  fingerprint: 8a6a9788a82bae7001fb1321abfd5a77b1c0a838a64f756ca517e8596adbe5ea
+  sha1: sha256:4ea7de8e4d8610da104f40d366c3140cc4c2371a254994e87a78d60b00ecebc6
