@@ -4,5 +4,6 @@ templates: {}
 
 packages:
 - r-buildpack-cflinuxfs3
+- r-buildpack-cflinuxfs4
 
 properties: {}
