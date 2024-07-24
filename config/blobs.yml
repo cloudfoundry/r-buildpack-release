@@ -1,8 +1,8 @@
-r-buildpack/r_buildpack-cflinuxfs3-v1.2.12.zip:
-  size: 4238739
-  object_id: 31c74ad0-670b-4319-56ac-64bcc52a155c
-  sha: sha256:33b434519fa21656243a448f40d368c93d5498a8528d1331fb9beb85f1d1c76e
-r-buildpack/r_buildpack-cflinuxfs4-v1.2.12.zip:
-  size: 4238737
-  object_id: 47f375a4-e4c9-447d-5556-0fec4a7d0707
-  sha: sha256:c2bfdb323e374eec2f7306d9f97393d017a6cc176568a29e4a7aef6125a1efb1
+r-buildpack/r_buildpack-cflinuxfs3-v1.2.13.zip:
+  size: 4239497
+  object_id: b69b1af8-2fa3-43f5-5d42-9073a584df3d
+  sha: sha256:419d110914dc53c0b9e332f31faf80ee0eef5e088593e720fb4b441a9554b043
+r-buildpack/r_buildpack-cflinuxfs4-v1.2.13.zip:
+  size: 4239498
+  object_id: 7aefce36-dc4d-4c25-57cf-201e3e0e3d0f
+  sha: sha256:c1beccbe15aae6e9d2574b442c73019f98dc6a7e381ab6f8db052c53d71f4bc9
