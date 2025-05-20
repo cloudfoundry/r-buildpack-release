@@ -1,0 +1,27 @@
+name: r-buildpack
+version: 1.2.20
+commit_hash: 4a60d70
+uncommitted_changes: false
+jobs:
+- name: r-buildpack
+  version: a50cc69cf797a758d497f4f4a5f4fc89dbca90c6175917be0da10e583042aa94
+  fingerprint: a50cc69cf797a758d497f4f4a5f4fc89dbca90c6175917be0da10e583042aa94
+  sha1: sha256:367e23bb8879d9de648e5861c891e3ff53331df5747d9072d9fe2529a4853276
+  packages:
+  - r-buildpack-cflinuxfs3
+  - r-buildpack-cflinuxfs4
+packages:
+- name: r-buildpack-cflinuxfs3
+  version: a361a8e5af57116a8abe6eeb5231d23ecbf1cfd0a5f9698e4b3e15991ac48254
+  fingerprint: a361a8e5af57116a8abe6eeb5231d23ecbf1cfd0a5f9698e4b3e15991ac48254
+  sha1: sha256:5c101083d79eea5b3f955bf2ed3f83fa6b0f65671f1d4199967e30f9ad7d8fb4
+  dependencies: []
+- name: r-buildpack-cflinuxfs4
+  version: 806ee60d7b948c39270391ec0158a5fc0fca06e3d48505f826412adee1a0cb88
+  fingerprint: 806ee60d7b948c39270391ec0158a5fc0fca06e3d48505f826412adee1a0cb88
+  sha1: sha256:e0d9cfff4325beee477e06b2d114953837b175f5ad56a77b6baf421ea73e922c
+  dependencies: []
+license:
+  version: 8a6a9788a82bae7001fb1321abfd5a77b1c0a838a64f756ca517e8596adbe5ea
+  fingerprint: 8a6a9788a82bae7001fb1321abfd5a77b1c0a838a64f756ca517e8596adbe5ea
+  sha1: sha256:4ea7de8e4d8610da104f40d366c3140cc4c2371a254994e87a78d60b00ecebc6
