@@ -1,2 +1,0 @@
-    set -e -x
-    cp r-buildpack/r?buildpack-*.zip ${BOSH_INSTALL_TARGET}

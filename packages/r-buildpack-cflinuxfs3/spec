@@ -1,4 +1,0 @@
----
-name: r-buildpack-cflinuxfs3
-files:
-- r-buildpack/r?buildpack-cflinuxfs3-v*.zip
