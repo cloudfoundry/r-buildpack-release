@@ -1,4 +1,4 @@
-r-buildpack/r_buildpack-cflinuxfs4-v1.2.25.zip:
-  size: 4870744
-  object_id: 586acd20-645e-43d3-5324-4632371a702a
-  sha: sha256:8184189108beaf944f5710bb941e38a6e9687b1c8628426bed0539c10309dd33
+r-buildpack/r_buildpack-cflinuxfs4-v1.2.26.zip:
+  size: 4787650
+  object_id: e994e9c6-912a-450f-716c-fe53cfafbf1e
+  sha: sha256:c12c8ccba9d155b3641b7777779df1de81a8f7716bef6906b767e9e5c08d8168
